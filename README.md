@@ -1,7 +1,7 @@
 # My Progression 
 In this repository I'll save the apps that I'll make using this idea repository: https://github.com/florinpop17/app-ideas
 
-The apps will be make only using HTML,CSS, JS (React, NextJs)
+The apps will be make only using HTML,CSS, JS (React, NextJs) and TypeScript
 
 ## Begginer Section
 - [ ] Bin2Dec	Binary-to-Decimal number converter
