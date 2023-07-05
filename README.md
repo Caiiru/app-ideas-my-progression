@@ -4,9 +4,9 @@ In this repository I'll save the apps that I'll make using this idea repository:
 The apps will be make only using HTML,CSS, JS (React, NextJs)
 
 ## Begginer Section
--[] Bin2Dec	Binary-to-Decimal number converter	
-Border Radius Previewer	Preview how CSS3 border-radius values affect an element	
-Calculator	Calculator	
+- [ ] Bin2Dec	Binary-to-Decimal number converter
+- [ ] Border Radius Previewer	Preview how CSS3 border-radius values affect an element
+- [ ] Calculator	Calculator
 Christmas Lights	Simulate a string of Christmas lights	
 Cause Effect App	Click list item to display item details	
 Color Cycle	Cycle a color value through incremental changes	
